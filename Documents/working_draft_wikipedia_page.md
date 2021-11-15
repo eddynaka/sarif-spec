@@ -69,6 +69,7 @@ The OASIS SARIF Technical Committee was formed and had its first meeting in Sept
 - [TerraScan](https://github.com/accurics/terrascan) is a static code analysis tool for infrastructure-as-code.
 - [TFSec](https://github.com/tfsec/tfsec) uses static analysis of your terraform templates to spot potential security issues.
 - [Trivy](https://github.com/aquasecurity/trivy) is a vulnerability scanner for containers and other artifacts.
+- [Upgrade Assistant](https://github.com/dotnet/upgrade-assistant) is a project that enables automation of common tasks related to upgrading .NET Framework projects to the latest versions of .NET.
 
 ### Converters (i.e. tool output to SARIF conversion code exists)
 
